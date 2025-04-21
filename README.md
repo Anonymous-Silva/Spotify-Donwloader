@@ -17,3 +17,13 @@ A simple and powerful tool to download `.mp3` files from **Spotify** and **YouTu
 3. Paste your **Spotify** or **YouTube** link and press Enter.
 
 > ⚠️ You may need to allow the app through your firewall or antivirus on first run.
+
+## 📌 Notes
+This app is for personal and educational use only.
+
+Please respect all copyright laws.
+
+Playlist and album downloading from Spotify is not yet supported (coming soon).
+
+## 📃 License
+This project is licensed under the MIT License.
