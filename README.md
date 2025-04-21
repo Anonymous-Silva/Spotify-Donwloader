@@ -27,3 +27,5 @@ Playlist and album downloading from Spotify is not yet supported (coming soon).
 
 ## 📃 License
 This project is licensed under the MIT License.
+
+> Made with 💻 by Anonymous-Silva
